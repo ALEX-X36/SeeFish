@@ -1,6 +1,6 @@
 # 🐟 SeeFish — 鱼类识别APP
 
-基于深度学习的实时鱼类识别移动应用。拍照或选择图片，即可识别鱼种并显示标注框。采用 Flutter 前端 + FastAPI 后端架构，YOLO 模型由 [Trainer](../Trainer/) 项目训练产出。
+基于深度学习的实时鱼类识别移动应用。拍照或选择图片，即可识别鱼种并显示标注框。采用 Flutter 前端 + FastAPI 后端架构，YOLO 模型由 [Trainer](https://github.com/ALEX-X36/YOLO-Trainer) 项目训练产出。
 
 ---
 
